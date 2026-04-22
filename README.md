@@ -51,9 +51,9 @@ Actualmente completando el **Bootcamp de DevOps & Cloud Engineering en KeepCodin
 
 | Proyecto | Descripción | Stack |
 |----------|-------------|-------|
-| [liberando-productos-practica-final](https://github.com/crisTTori/liberando-productos-practica-final) | Despliegue de aplicación FastAPI con CI/CD, monitorización con Prometheus y alertas en Slack | FastAPI · Docker · K8s · Helm · GitHub Actions · Prometheus · Grafana |
-| [practica-apitodo](https://github.com/crisTTori/practica-apitodo) | REST API con pipeline CI/CD completo, análisis de código con SonarCloud y despliegue GitOps con ArgoCD | Python · Flask · PostgreSQL · CircleCI · Docker · ArgoCD |
-| [wordpress-helm-chart](https://github.com/crisTTori/wordpress-helm-chart) | Despliegue de WordPress en Kubernetes mediante Helm chart | Kubernetes · Helm · WordPress |
+| [Proyecto-SRE](https://github.com/crisTTori/practica-SRE) | Despliegue de aplicación FastAPI con CI/CD, monitorización con Prometheus y alertas en Slack | FastAPI · Docker · K8s · Helm · GitHub Actions · Prometheus · Grafana |
+| [API-TO_DO-Docker](https://github.com/crisTTori/practica-apitodo) | REST API con pipeline CI/CD completo, análisis de código con SonarCloud y despliegue GitOps con ArgoCD | Python · Flask · PostgreSQL · CircleCI · Docker · ArgoCD |
+| [Wordpress-helm-chart](https://github.com/crisTTori/wordpress-helm-chart) | Despliegue de WordPress en Kubernetes mediante Helm chart | Kubernetes · Helm · WordPress |
 
 ---
 
